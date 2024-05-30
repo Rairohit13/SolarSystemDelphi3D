@@ -10,9 +10,9 @@ uses
 
 type
   Tfrmmain = class(TForm3D)
-    Sphere1: TSphere;
-    TextureMaterialSource1: TTextureMaterialSource;
-    FloatAnimation1: TFloatAnimation;
+    sph0Sun: TSphere;
+    tms0Sun: TTextureMaterialSource;
+    fla0Sun: TFloatAnimation;
   private
     { Private declarations }
   public

@@ -2,7 +2,6 @@ object frmmain: Tfrmmain
   Left = 0
   Top = 0
   Caption = 'Solar System'
-  Color = claBlack
   ClientHeight = 480
   ClientWidth = 640
   Position = ScreenCenter
@@ -45697,12 +45696,11 @@ object frmmain: Tfrmmain
       Top = 224
     end
     object sph1Mercury: TSphere
-      Position.X = 9.981845855712891000
-      Position.Y = 0.203156471252441400
-      Position.Z = -1.000000000000000000
-      Width = 2.000000000000000000
-      Height = 2.000000000000000000
-      Depth = 2.000000000000000000
+      Position.X = 9.000000000000000000
+      Position.Y = 0.058299064636230470
+      Width = 3.000000000000000000
+      Height = 3.000000000000000000
+      Depth = 3.000000000000000000
       SubdivisionsAxes = 32
       SubdivisionsHeight = 32
       MaterialSource = tms1Mercury
@@ -46409,12 +46407,11 @@ object frmmain: Tfrmmain
       end
     end
     object sph2Venus: TSphere
-      Position.X = -6.591640949249268000
-      Position.Y = 0.078408718109130860
-      Position.Z = -1.000000000000000000
-      Width = 2.000000000000000000
-      Height = 2.000000000000000000
-      Depth = 2.000000000000000000
+      Position.X = -4.000000000000000000
+      Position.Y = 7.000000000000000000
+      Width = 3.000000000000000000
+      Height = 3.000000000000000000
+      Depth = 3.000000000000000000
       SubdivisionsAxes = 32
       SubdivisionsHeight = 32
       MaterialSource = tms2Venus
@@ -47008,11 +47005,11 @@ object frmmain: Tfrmmain
       end
     end
     object sph3_0Earth: TSphere
-      Position.X = 4.892780303955078000
-      Position.Y = 0.195546865463256800
-      Width = 2.000000000000000000
-      Height = 2.000000000000000000
-      Depth = 2.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = -5.000000000000000000
+      Width = 3.000000000000000000
+      Height = 3.000000000000000000
+      Depth = 3.000000000000000000
       SubdivisionsAxes = 32
       SubdivisionsHeight = 32
       MaterialSource = tms3_0Earth
@@ -48084,8 +48081,8 @@ object frmmain: Tfrmmain
         Top = 224
       end
       object sph3_1Moon: TSphere
-        Position.X = 2.000000000000000000
-        Position.Y = -1.000000000000000000
+        Position.X = 5.000000000000000000
+        Position.Y = -2.000000000000000000
         Width = 1.000000000000000000
         Height = 1.000000000000000000
         Depth = 1.000000000000000000
@@ -48974,12 +48971,11 @@ object frmmain: Tfrmmain
       end
     end
     object sph4Mars: TSphere
-      Position.X = -5.446368217468262000
-      Position.Y = 0.618508815765380900
-      Position.Z = 1.000000000000000000
-      Width = 2.000000000000000000
-      Height = 2.000000000000000000
-      Depth = 2.000000000000000000
+      Position.X = -6.000000000000000000
+      Position.Y = 0.058299064636230470
+      Width = 3.000000000000000000
+      Height = 3.000000000000000000
+      Depth = 3.000000000000000000
       SubdivisionsAxes = 32
       SubdivisionsHeight = 32
       MaterialSource = tms4Mars
@@ -50139,12 +50135,11 @@ object frmmain: Tfrmmain
       end
     end
     object sph5Jupiter: TSphere
-      Position.X = -10.957334518432620000
-      Position.Y = 0.486063957214355500
-      Position.Z = -1.000000000000000000
-      Width = 2.500000000000000000
-      Height = 2.500000000000000000
-      Depth = 2.500000000000000000
+      Position.X = -10.000000000000000000
+      Position.Y = 0.058299064636230470
+      Width = 3.000000000000000000
+      Height = 3.000000000000000000
+      Depth = 3.000000000000000000
       SubdivisionsAxes = 32
       SubdivisionsHeight = 32
       MaterialSource = tms5Jupiter
@@ -51024,9 +51019,8 @@ object frmmain: Tfrmmain
       end
     end
     object sph6Saturn: TSphere
-      Position.X = -9.563673973083496000
-      Position.Y = -0.117097854614257800
-      Position.Z = 1.000000000000000000
+      Position.X = -8.000000000000000000
+      Position.Y = -4.000000000000000000
       Width = 3.000000000000000000
       Height = 3.000000000000000000
       Depth = 3.000000000000000000
@@ -51436,12 +51430,11 @@ object frmmain: Tfrmmain
       end
     end
     object sph7Uranus: TSphere
-      Position.X = 9.549239158630371000
-      Position.Y = 1.749235630035400000
-      Position.Z = 1.000000000000000000
-      Width = 2.000000000000000000
-      Height = 2.000000000000000000
-      Depth = 2.000000000000000000
+      Position.X = 9.000000000000000000
+      Position.Y = -4.000000000000000000
+      Width = 3.000000000000000000
+      Height = 3.000000000000000000
+      Depth = 3.000000000000000000
       SubdivisionsAxes = 32
       SubdivisionsHeight = 32
       MaterialSource = tms7Uranus
@@ -51496,12 +51489,11 @@ object frmmain: Tfrmmain
       end
     end
     object sph8Neptune: TSphere
-      Position.X = 8.097287178039551000
-      Position.Y = 1.020903110504150000
-      Position.Z = 2.000000000000000000
-      Width = 2.500000000000000000
-      Height = 2.500000000000000000
-      Depth = 2.500000000000000000
+      Position.X = 9.000000000000000000
+      Position.Y = 5.000000000000000000
+      Width = 3.000000000000000000
+      Height = 3.000000000000000000
+      Depth = 3.000000000000000000
       SubdivisionsAxes = 32
       SubdivisionsHeight = 32
       MaterialSource = tms8Neptune

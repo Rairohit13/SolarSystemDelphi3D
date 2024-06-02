@@ -12,8 +12,8 @@
     <Transaction>2024-02-06 00:58:04.000.929,=C:\Users\Rishi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2024-05-27 02:35:53.000.205,=C:\Users\Rishi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2024-05-27 02:36:27.000.429,=C:\Users\Rishi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024-05-27 02:37:46.000.741,C:\Users\Rishi\Documents\Embarcadero\Studio\Projects\Unit1.fmx=F:\Rohit\Task3D\SolarSystemModel\ufrmMain.fmx</Transaction>
-    <Transaction>2024-05-27 02:37:46.000.741,C:\Users\Rishi\Documents\Embarcadero\Studio\Projects\Unit1.pas=F:\Rohit\Task3D\SolarSystemModel\ufrmMain.pas</Transaction>
-    <Transaction>2024-05-27 02:38:06.000.266,C:\Users\Rishi\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\Rohit\Task3D\SolarSystemModel\SolarSystem.dproj</Transaction>
+    <Transaction>2024-05-27 02:37:46.000.741,F:\Rohit\Task3D\SolarSystemModel\ufrmMain.fmx=C:\Users\Rishi\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024-05-27 02:37:46.000.741,F:\Rohit\Task3D\SolarSystemModel\ufrmMain.pas=C:\Users\Rishi\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024-05-27 02:38:06.000.266,F:\Rohit\Task3D\SolarSystemModel\SolarSystem.dproj=C:\Users\Rishi\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>

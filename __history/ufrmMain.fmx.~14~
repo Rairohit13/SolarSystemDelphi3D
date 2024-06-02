@@ -12,12 +12,11 @@ object frmmain: Tfrmmain
   FormFactor.Devices = [Desktop]
   DesignerMasterStyle = 0
   object sph0Sun: TSphere
-    Position.X = -0.275845021009445200
-    Position.Y = 0.010259151458740230
+    Position.X = -0.276637881994247400
+    Position.Y = 0.058299064636230470
     Width = 5.000000000000000000
     Height = 5.000000000000000000
     Depth = 5.000000000000000000
-    OnClick = sph0SunClick
     SubdivisionsAxes = 32
     SubdivisionsHeight = 32
     MaterialSource = tms0Sun
@@ -48087,9 +48086,9 @@ object frmmain: Tfrmmain
       object sph3_1Moon: TSphere
         Position.X = 1.000000000000000000
         Position.Y = -1.000000000000000000
-        Width = 0.800000011920929000
-        Height = 0.800000011920929000
-        Depth = 0.800000011920929000
+        Width = 1.000000000000000000
+        Height = 1.000000000000000000
+        Depth = 1.000000000000000000
         SubdivisionsAxes = 32
         SubdivisionsHeight = 32
         MaterialSource = tms3_1Moon
